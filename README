@@ -1,5 +1,23 @@
-Leafier: The Bukkit Server Web Panel! 
+##Leafier is a Bukkit Server Panel with all the features included! No holds barred and no handicaps!
 
-==What does Leafier do?==
+Leafier may not be the first web-based server panel, but it packs more punch than the next leading competitior. Leafier is a new way for administrators to reach out to their community in ways that they've never had before. All you need is a minecraft server, a Web Server, and a MySQL Database. That's it!
 
-The leafier panel is meant to be used by not only admins and mods, but the regular player as well! The system offers a fully-built, fully functional site for the server including: a Homepage, a Stats page, a Ban Appeals page, and Forums (Coming Soon!). Leafier aims to create a panel that is generally used by the entire community rather than the staff for administrating the server.
+##What does Leafier do?
+
+The leafier panel is meant to be used by not only admins and mods, but the regular player as well! The system offers a fully-built, fully functional site for the server including: a Homepage, a Stats page, a Ban Appeals page, and Forums. This will also include the generic web admin interface with features such as player management, server management, and plugin management. Leafier aims to create a panel that is generally used by the entire community as well as the staff for administrating the server.
+
+##Bukkit-compatible
+
+Leafier is meant to work along-side an already running Bukkit/Craftbukkit server and is used as an addon for this functionality. You can continue to run your server as-is along with the Leafier control panel.
+
+##We Heart Plugins
+
+Leafier runs with the JSONApi Bukkit Plugin which allows users to create their own JSON Functions. Because of this, Leafier also comes with built-in support for managing plugins. A full list of supported plugins is coming soon.
+
+##Hey! Contribute! We're Open Source!
+
+Because of Bukkit's licensing, Leafier is an open-source project that anyone can contribute to. Come visit us on EsperNet in #leafier if you want to help develop Leafier! (irc.esper.net #leafier)
+
+##Customization? But I hardly knew her.
+
+Leafier's framework allows for customization of the public portion of the system. Customization of the backend is coming soon.  
