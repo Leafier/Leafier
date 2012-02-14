@@ -20,4 +20,14 @@ Because of Bukkit's licensing, Leafier is an open-source project that anyone can
 
 ##Customization? But I hardly knew her.
 
-Leafier's framework allows for customization of the public portion of the system. Customization of the backend is coming soon.  
+Leafier's framework allows for customization of the public portion of the system. Customization of the backend is coming soon.  \
+
+##How To Install
+
+- Download Source Code
+
+- Execute .SQL File to Empty Database
+
+- Update variables in system/config.php respectively
+
+- Enjoy!
